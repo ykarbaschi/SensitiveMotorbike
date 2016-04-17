@@ -1,6 +1,17 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GrassRoadRace/Script/CameraMove.cs">
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="0" Y="23" Width="1440" Height="802">
+        <Files>
+          <File FileName="Assets/GrassRoadRace/Script/CameraMove.cs" Line="208" Column="4" />
+          <File FileName="Assets/Timer.cs" Line="26" Column="46" />
+          <File FileName="Assets/OVR/Scripts/OVRCameraRig.cs" Line="34" Column="2" />
+          <File FileName="Assets/OVR/Scripts/OVRManager.cs" Line="621" Column="3" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
